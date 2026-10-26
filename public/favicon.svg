@@ -1,0 +1,25 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64">
+  <defs>
+    <linearGradient id="sky" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0%" stop-color="#1b1440" />
+      <stop offset="100%" stop-color="#4d2c5e" />
+    </linearGradient>
+    <linearGradient id="body" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0%" stop-color="#ff9a5a" />
+      <stop offset="100%" stop-color="#ffd28a" />
+    </linearGradient>
+  </defs>
+  <rect width="64" height="64" rx="14" fill="url(#sky)" />
+  <!-- Bird Body -->
+  <ellipse cx="30" cy="34" rx="16" ry="13" fill="url(#body)" stroke="#1b1440" stroke-width="2" />
+  <!-- Belly highlight -->
+  <ellipse cx="32" cy="39" rx="6" ry="4" fill="rgba(255,255,255,0.4)" />
+  <!-- Wing -->
+  <ellipse cx="24" cy="35" rx="9" ry="6" transform="rotate(-15 24 35)" fill="#ff7a45" stroke="#1b1440" stroke-width="1.5" />
+  <!-- Eye -->
+  <circle cx="38" cy="29" r="5" fill="#fff6e8" />
+  <circle cx="39.5" cy="29" r="2.5" fill="#1b1440" />
+  <circle cx="40.5" cy="28" r="1" fill="#ffffff" />
+  <!-- Beak -->
+  <polygon points="44,32 54,35 44,38" fill="#ffc44d" stroke="#1b1440" stroke-width="1.5" />
+</svg>

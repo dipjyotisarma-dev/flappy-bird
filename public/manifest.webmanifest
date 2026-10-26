@@ -1,0 +1,18 @@
+{
+  "name": "Flappy Dusk — Arcade",
+  "short_name": "Flappy Dusk",
+  "description": "An arcade flight game. Thread the pipes through the dusk sky.",
+  "start_url": "/",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#14102a",
+  "theme_color": "#1b1440",
+  "icons": [
+    {
+      "src": "/favicon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any maskable"
+    }
+  ]
+}
