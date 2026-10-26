@@ -2,7 +2,7 @@
 
 An arcade flight game set against a dusk sky. Thread the pipe gaps, dodge obstacles, and chase your high score.
 
-🎮 **Live Game:** [flappy-dusk.vercel.app](https://flappy-dusk.vercel.app)
+🎮 **Live Game:** [flappy-dusk.vercel.app](https://flapdusk.vercel.app/)
 
 ---
 
