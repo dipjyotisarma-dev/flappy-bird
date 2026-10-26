@@ -24,3 +24,6 @@ yarn-error.log*
 pnpm-debug.log*
 .vite/
 scripts/*.mjs
+
+PLAN.md
+STATE.md
